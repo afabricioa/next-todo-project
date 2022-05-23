@@ -9,7 +9,7 @@ export default function Home() {
         <title>Página Inicial</title>
       </Head>
       <div>
-        <h1>Hello World</h1>
+        <h1>PokeNext</h1>
       </div>
     </>
   )
